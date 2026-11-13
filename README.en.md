@@ -96,3 +96,7 @@ For methods that drive the proof structure, a key estimate, or the identificatio
 - Numbering discipline: local definitions/calculations use unnumbered displays `\[...\]`; numbers are assigned only when a stable cross-reference is needed; existing equation and theorem numbers are preserved
 - Long tasks maintain a checkpoint (objective, established results, open statements, failed approaches, next steps) so work can resume seamlessly
 - While the main problem is open, prioritize the critical obstruction over polishing and recompiling
+
+## License
+
+This project is released under the [MIT License](LICENSE).
