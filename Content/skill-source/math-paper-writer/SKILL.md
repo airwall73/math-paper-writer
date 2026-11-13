@@ -18,7 +18,6 @@ Apply this workflow when a mathematical result, argument, or statement is ready 
 Follow the user's choice of journal, author, house style, or exemplars. Use project style instructions where the user's choice leaves room. Read the relevant instructions or exemplars before applying them. Within applicable venue requirements, follow the chosen author's conventions in the areas they cover and the target journal's patterns for the rest. In the absence of specified guidance, follow the existing manuscript or use concise mathematical prose for a new draft.
 
 - Read the [probability journal style example](references/probability-journal-style.md) if it is selected or relevant to the specified target venue. Use the example for editorial patterns. Take mathematical claims and assumptions from the manuscript and verified sources.
-- Read the [author style example](references/example-author-style.md) when it is selected as an exemplar. For a different author, use that author's supplied style notes or sample papers.
 - If a requested style source is unavailable, use the available instructions and existing manuscript conventions. State which style source you used and identify any material choice that remains uncertain.
 
 ## Draft statements and proofs

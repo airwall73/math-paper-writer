@@ -1,3 +1,7 @@
+# 根目录的 AGENTS.md 是本地仓库管理约定，不上传
+# （仅忽略根目录这一份；Content/AGENTS.md 是 skill 内容，正常上传）
+/AGENTS.md
+
 # 密钥与敏感信息
 .env
 .env.*
