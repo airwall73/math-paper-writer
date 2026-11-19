@@ -21,7 +21,7 @@
 按这个package的设定，重写xxx.tex
 ```
 
-**长期使用 / Codex 等 agent**：将content文件夹的内容放入**工作区**，AI会自动调用。本 package 由 `AGENTS.md` 和 skill 两部分组成——若工作区已有 `AGENTS.md`，需将两者文本合并。注意一次部署仅作用于**一个工作区**。
+**长期使用 / Codex 等 agent**：将content文件夹的内容放入**工作区**，AI会自动调用，直接写出本skill要求的证明。本 package 由 `AGENTS.md` 和 skill 两部分组成——若工作区已有 `AGENTS.md`，需将两者文本合并。注意一次部署仅作用于**一个工作区**。
 
 ## 实际效果示例
 
