@@ -13,6 +13,8 @@ research.
 Read [Research and verification](skill-source/math-paper-writer/references/research-and-verification.md) and apply the relevant sections to mathematical investigations, standalone proof or computation checks, source attribution, and LaTeX work.
 For manuscript drafting and revision, also read and apply [math-paper-writer](skill-source/math-paper-writer/SKILL.md).
 
+When updating the writing skill from feedback on a test passage, add only the transferable writing principle. Reserve the passage, its data, and its expected corrections for evaluation. If a worked example is needed, use an unrelated construction.
+
 ## Research priorities
 
 - While the main problem is open, prioritize the critical obstruction over polishing, formatting, or repeated compilation.

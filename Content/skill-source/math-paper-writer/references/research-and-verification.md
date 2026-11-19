@@ -14,13 +14,13 @@ At the start of a substantial task, identify the precise objective, the statemen
 
 ## Attribution
 
-Verify primary sources for the constructions and methods that drive the proof structure, a key estimate, or identification of a limit. At the first substantive use, add a compilable LaTeX footnote in nearby prose. Give a full source note once for each method and cross-reference it later where useful.
+Verify primary sources for the constructions and methods that drive the proof structure, a key estimate, or identification of a limit. For a direct application fully explained in one sentence, a citation in that sentence with the precise source locator suffices. For a construction or adaptation that needs a source note, give it once in a compilable LaTeX footnote at the first substantive use and cross-reference it later where useful.
 
 - For a directly used result or construction, give the author, citation key, and a verifiable section, theorem, or equation number. State the exact form used in the manuscript's notation. Show in the proof how the hypotheses are met.
 - For an adaptation, identify the step borrowed, what changes here, and the estimate or justification the new proof still needs. Spell out differences in conditioning, time window, normalization, or limiting object when relevant. If the argument uses an equivalent reformulation of a source definition or result, justify the equivalence it relies on.
 - For an analogy, identify the shared mechanism and the scope of the analogy. For an independent derivation, name the standard tools that justify it. If a source or locator remains unverified, mark it as pending and record what material was checked. Keep provisional notes compilable with the available citation keys.
 
-For manuscript edits, place the footnote in the source and add the verified bibliography entry if needed, using the project's citation conventions and existing keys. For a proof written only in chat, put a paste-ready LaTeX footnote after the corresponding proof passage and provide the bibliography entry if its key is new and verified.
+Use the project's citation conventions and existing keys. Add a verified bibliography entry if needed. When a source footnote is called for, place it in the manuscript or supply it as paste-ready LaTeX after the corresponding passage in a chat-only proof.
 
 ## Build and inspect
 
